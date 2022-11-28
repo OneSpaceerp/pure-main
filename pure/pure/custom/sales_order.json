@@ -161,7 +161,7 @@
    "name": "Sales Order-sales_contract_type",
    "no_copy": 0,
    "non_negative": 0,
-   "options": "Sales Order contract Type",
+   "options": null,
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
